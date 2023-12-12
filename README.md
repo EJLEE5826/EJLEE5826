@@ -6,7 +6,7 @@
 
 Hi🙌 My name is Eunju Lee :)
 
-- 📚 I'm Ph.D. student at the [IIPL](https://sites.google.com/view/iiplcau/home) of Chung-Ang University.
+- 📚 I'm Ph.D. student in the [IIPL](https://sites.google.com/view/iiplcau/home) at Chung-Ang University.
 - 🔭 I am interested in AI, specifically in computer vision tasks and vision-language models.
 - 🧶 My hobby is knitting and crochet.
 
