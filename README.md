@@ -13,9 +13,6 @@ Hi🙌 My name is Eunju Lee :)
 Please see more details [here]() 😊
 
 
-
-- ✨ One paper I co-authored has been accepted WACV 2024. Congratulations, [@herbwood](https://github.com/herbwood)!
-
 --------------------------	
 
 ### 💡 Research Interest
