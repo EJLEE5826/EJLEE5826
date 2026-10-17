@@ -7,7 +7,7 @@
 Hi🙌 My name is Eunju Lee :)
 
 - 📚 I'm Ph.D. student in the [IIPL](https://sites.google.com/view/iiplcau/home) at Chung-Ang University.
-- 🔭 I am interested in AI, specifically in computer vision tasks and vision-language models.
+- 🔭 I am interested in AI, specifically in Continual Learning and Vision-Language models.
 - 🧶 My hobby is knitting and crochet.
 
 <!--Please see more details [here]() 😊-->
@@ -16,12 +16,9 @@ Hi🙌 My name is Eunju Lee :)
 --------------------------	
 
 ### 💡 Research Interest
-- Computer Vision
+- Multi-modal / Computer Vision
+- Continual Learning
 - Vision-Language Model
-- Best Frame Selection
-- Weakly supervised learning
-- Open-Vocabulary Object Segmentation
-
 
 ### 🌟 Skills
 
