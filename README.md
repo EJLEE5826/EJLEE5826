@@ -10,7 +10,7 @@ Hi🙌 My name is Eunju Lee :)
 - 🔭 I am interested in AI, specifically in Continual Learning and Vision-Language models.
 - 🧶 My hobby is knitting and crochet.
 
-<!--Please see more details [here]() 😊-->
+Please see more details [here](https://ejlee5826.github.io/) 😊
 
 
 --------------------------	
